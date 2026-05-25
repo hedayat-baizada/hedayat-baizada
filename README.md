@@ -17,7 +17,7 @@ I make videos about **Web Design** and development to help others learn the craf
 
 ### Let's Connect!
 If you're looking for a hard-working dev who isn't afraid of a challenge (or if you just want to talk about Laravel!), feel free to reach out:
-- 📩 **Email:** [Hedayatullahbaizada@gmail.com]
+- 📩 **Email:** Hedayatullahbaizada@gmail.com
 
 
 *"I don't just write code; I build solutions that actually work."*
